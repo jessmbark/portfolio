@@ -1,0 +1,253 @@
+.content-block {
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.clip {
+    box-shadow: 0 1px 5px lightgrey;
+    padding: 10px;
+    width: 100%;
+    border-radius: 20px;
+    transition: all .2s ease-out;
+    position: relative;
+    right: 0px;
+    margin-bottom: 20px;
+    background-color: white;
+    cursor: pointer;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.clip:hover {
+    right: -15px;
+}
+
+.clip-holder {
+    height: fit-content;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.clip-image-column {
+    width: 30%;
+    float: left;
+}
+
+.clip-title {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.clip-content-column {
+    width: 70%;
+    float: left;
+}
+
+.clip:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.clip-metadata {
+    margin-top: 0px;
+    color: grey;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.clip-publication {
+    font-style: italic;
+}
+
+.clip-award {
+    margin-top: 0px;
+    color: #1f487e;
+    font-weight: bold;
+}
+
+.clip-about {
+    margin-top: 0px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a[href] {
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-decoration-thickness: 3px;
+}
+
+a[href]:hover {
+    background-color: lightgrey;
+}
+
+.clip-image {
+    width: calc(100% - 20px);
+    border-radius: 10px;
+    max-height: 150px;
+    object-fit: cover;
+}
+
+.profile-pic {
+    width: calc(100% - 20px);
+    margin: 10px;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    float: left;
+}
+
+.name-title {
+    margin-bottom: 0px;
+}
+
+.profile-header {
+    height: max-content;
+    width: 100%;
+}
+
+.social-icons {
+    float: left;
+    height: 200px;
+    width: calc(40% - 10px);
+    margin-left: 10px;
+}
+
+.column {
+    float: left;
+}
+
+.social-icon:hover {
+    background-color: transparent !important;
+    color: orangered !important;
+}
+
+.social-icon {
+    color: inherit !important;
+    text-decoration: none !important;
+}
+
+.page-body {
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+}
+
+#bio-column {
+    width: 25%;
+    position: sticky;
+    display: block;
+}
+
+#clips-column {
+    width: 75%;
+}
+
+.social-header {
+    color: grey;
+    margin-top: 0px;
+    font-weight: normal;
+    padding-top: 5px;
+    font-size: 1.5em;
+    margin-bottom: 0px;
+}
+
+.about-block>p {
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+}
+
+.template-tag {
+    border: 2px solid black;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.template-tag>p {
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu {
+    width: 100%;
+    height: fit-content;
+    border-bottom: 1px solid lightgrey;
+    box-sizing: border-box;
+}
+
+.menu-item {
+    float: left;
+    font-size: 1.2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 550;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 2px;
+    margin-right: 5px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.menu::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.menu-item[selected='true'] {
+    border-bottom: 2px solid #eb5e28;
+    box-sizing: border-box;
+}
+
+.menu-item[selected='false']:hover {
+    border-bottom: 2px solid #91a6ff;
+}
+
+#menu-item-all {
+    padding-bottom: 3px;
+}
+
+@media screen and (max-width: 820px) {
+    .page-body {
+        width: 100%;
+        margin: 0;
+    }
+
+    .column {
+        width: 100% !important;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .clip-image {
+        max-height: 300px;
+    }
+
+    #main-clips {
+        margin-top: 0px;
+    }
+
+    .name-title {
+        margin-top: 0px;
+    }
+
+}

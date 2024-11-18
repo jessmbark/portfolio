@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style/styles.css">
+<script src="https://kit.fontawesome.com/bb1d08a9b2.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+</head>
+<body>
+    <div class="row">
+        <div class="page-body">
+            <div class="row">
+                <div class="column body-column" id="bio-column">
+                    <div class="bio-block">
+                        <img class="profile-pic" id="creator-photo">
+                        <h1 class="name-title" id="creator-name"></h1>
+                        <h3 class="social-header" id="creator-handle"></h3>
+                        <div class="about-block">
+                            <p id="creator-bio"></p>
+                        </div>
+                        <div class="template-tag">
+                            <p>Developed by Declan Bradley as an open source template. <a href="https://github.com/declanrjb/portfolio-template">Fork with attribution.</a> <i class="fa-brands fa-github"></i> </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="column body-column" id="clips-column">
+                    <div class="menu" id="top-menu">
+                        <!--Tags populated here. 
+                        Set include-all to specify whether an All tag should appear at the start of the menu.-->
+                    </div>
+                    <div class="clip-holder" id="main-clips">
+                        <!-- clips populated here-->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+<footer>
+    <script src="scripts/render-portfolio.js"></script>
+</footer>
