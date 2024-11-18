@@ -1,64 +1,46 @@
 {
     "homepage":{
         "photo":"style/circle-user-solid.svg",
-        "name":"Ford Prefect",
+        "name":"Jessica M. Barker",
         "socials":{
-            "handle":"@prefected",
+            "handle":"@jessmbark",
             "platforms":[
                 {
-                    "icon":"fa-brands fa-square-twitter",
-                    "link":""
-                },
-                {
                     "icon":"fa-brands fa-linkedin",
-                    "link":""
+                    "link":"https://www.linkedin.com/in/jessmbark/"
                 }
             ]
         },
         "bio":{
             "format":"plain",
-            "text":"In search of a towel."
+            "text":"Lover of stories."
         },
         "menu":{
             "include-all":"TRUE",
             "tags":[
                 {
                     "icon":"fa-solid fa-pencil",
-                    "text":"Writing"
-                },
-                {
-                    "icon":"fa-solid fa-camera",
-                    "text":"Photography"
+                    "text":"Featured Projects"
                 }
             ]
         }
     },
     "clips":[
         {
-            "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg",
-            "title":"A Brief Summary of the Earth",
-            "date":"October 12, 1979",
-            "publication":"Excerpted in The Hitchhiker's Guide to the Galaxy",
-            "award":"Firmly rejected by the Encyclopedia Galactica",
-            "link":"https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)",
-            "type":"Writing"
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2024/09/TN-Pedestrian-Crash-Data.png",
+            "title":"Pedestrian Crashes in Tennessee",
+            "date":"October 1, 2024",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/pedestrian-crashes-tennessee/",
+            "type":"Featured Projects"
         },
         {
-            "image":"https://t4.ftcdn.net/jpg/01/25/85/45/360_F_125854589_KPLJG5hgQBW2tTdslv7TIA1Ng7ChFIjP.jpg",
-            "title":"The Total Perspective Vortex",
-            "date":"October 12, 1979",
-            "publication":"Unprintable for the sake of the reader's sanity",
-            "award":"Called 'not that bad' by Zaphod Beeblebrox",
-            "link":"https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)",
-            "type":"Photography"
-        },
-        {
-            "image":"https://s3.animalia.bio/animals/photos/full/original/1620px-jackass-2952270258jpg.webp",
-            "title":"What Turning into a Penguin Taught Me About Life, the Universe, and Everything",
-            "date":"October 12, 1979",
-            "publication":"Self-published essay",
-            "link":"https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)",
-            "type":"Writing"
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2024/09/Betsy-1.jpg",
+            "title":"‘I was just a target’: Pedestrian hit by car reflects on recovery, implores people to pay attention",
+            "date":"October 1, 2024",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/special-reports/tn-pedestrian-crashes/tn-woman-hit-by-car-reflects-implores-pay-attention/",
+            "type":"Featured Projects"
         }
     ]
 }
