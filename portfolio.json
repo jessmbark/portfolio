@@ -1,6 +1,6 @@
 {
     "homepage":{
-        "photo":"style/circle-user-solid.svg",
+        "photo":"style/githubpfp.jpeg",
         "name":"Jessica M. Barker",
         "socials":{
             "handle":"@jessmbark",
@@ -18,10 +18,6 @@
         "menu":{
             "include-all":"TRUE",
             "tags":[
-                {
-                    "icon":"fa-solid fa-pencil",
-                    "text":"Featured Projects"
-                }
             ]
         }
     },
@@ -32,7 +28,6 @@
             "date":"October 1, 2024",
             "publication":"WKRN",
             "link":"https://www.wkrn.com/pedestrian-crashes-tennessee/",
-            "type":"Featured Projects"
         },
         {
             "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2024/09/Betsy-1.jpg",
@@ -40,7 +35,42 @@
             "date":"October 1, 2024",
             "publication":"WKRN",
             "link":"https://www.wkrn.com/special-reports/tn-pedestrian-crashes/tn-woman-hit-by-car-reflects-implores-pay-attention/",
-            "type":"Featured Projects"
+        },
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2024/08/TN-Pedestrian-Crash-Deaths.png",
+            "title":"Davidson County consistently sees high number of pedestrian crashes",
+            "date":"October 1, 2024",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/special-reports/tn-pedestrian-crashes/davidson-county-tn-highest-number-pedestrian-crashes-per-capita/",
+        },
+        {
+            "image":"https://livability.com/wp-content/uploads/2021/07/3051009jkk6668_0.jpg.webp",
+            "title":"Tennessee Library Project",
+            "date":"July 6, 2024",
+            "publication":"For the 2024 Lede Program",
+            "link":"https://jessmbark.github.io/TN-Library-Project/",
+        },
+        {
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_newborn_baby_in_men.jpg/600px-The_newborn_baby_in_men.jpg",
+            "title":"How many of me are there?",
+            "date":"July 10, 2024",
+            "publication":"For the 2024 Lede Program",
+            "link":"https://jessmbark.github.io/Jessicas-in-TN/",
+        },
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2024/07/thpofficershooting.png",
+            "title":"Blue Alert: Suspects wanted after Tennessee Highway Patrol trooper shot in Putnam County",
+            "date":"July 19, 2024",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/news/local-news/tennessee-highway-patrol-trooper-shot-in-putnam-county/",
+        
+        },
+        {
+            "image":"hhttps://vanderbilthustler.com/wp-content/uploads/2020/02/DM8A5642-1-900x600.jpeg",
+            "title":"Q&A: Former National Security Advisor John Bolton sits down with The Hustler prior to CLS talk",
+            "date":"February 19, 2020",
+            "publication":"The Vanderbilt Hustler",
+            "link":"https://vanderbilthustler.com/2020/02/19/qa-former-national-security-advisor-john-bolton-sits-down-with-the-hustler-prior-cls-talk/",
         }
     ]
 }
