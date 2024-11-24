@@ -42,5 +42,62 @@
             "link":"https://www.wkrn.com/special-reports/tn-pedestrian-crashes/tn-woman-hit-by-car-reflects-implores-pay-attention/",
             "type":"Featured Projects"
         }
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2024/09/AdobeStock_209576677-mod.png",
+            "title":"Davidson County consistently sees high number of pedestrian crashes",
+            "date":"October 1, 2024",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/special-reports/tn-pedestrian-crashes/davidson-county-tn-highest-number-pedestrian-crashes-per-capita/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2024/11/Image.jpeg",
+            "title":"Teen cyclist killed in Spring Hill crash involving a bus, according to police",
+            "date":"November 20, 2024",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/news/local-news/deadly-cyslist-crash-spring-hill/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://people.com/thmb/BVnBNb8zYYjS5sC6CyJrr_z6dEg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(731x137:733x139)/newborn-baby-hopsital-nametag-generic-022024-5f8c225b97fd401993768151eacd7a7f.jpg",
+            "title":"How many of me are there? An exploration of my first name and its popularity in my home state of Tennessee",
+            "date":"July 9, 2024",
+            "publication":"Lede Program 2024",
+            "award":"Built using scrollama and ai2html",
+            "link":"https://jessmbark.github.io/Jessicas-in-TN/",
+            "type":"Featured Projects"
+        },
+         {
+            "image":"https://vanderbilthustler.com/wp-content/uploads/2020/02/DM8A5642-1.jpeg",
+            "title":"Q&A: Former National Security Advisor John Bolton sits down with The Hustler prior to CLS talk",
+            "date":"February 19, 2020",
+            "publication":"The Vanderbilt Hustler",
+            "link":"https://vanderbilthustler.com/2020/02/19/qa-former-national-security-advisor-john-bolton-sits-down-with-the-hustler-prior-cls-talk/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://vanderbilthustler.com/wp-content/uploads/2020/06/08-Mar-17-Grand-Canyon-026.jpg",
+            "title":"Assistant director of the Outdoor Rec Center terminated, community responds",
+            "date":"June 19, 2020",
+            "publication":"The Vanderbilt Hustler",
+            "link":"https://vanderbilthustler.com/2020/06/19/assistant-director-of-the-outdoor-rec-center-terminated-community-responds/#photo",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://vanderbilthustler.com/wp-content/uploads/2019/12/IMG_9597-e1575500099954.jpg",
+            "title":"Greenhouse manager eliminated, possibility of greenhouse permanently closing as part of decision to decant Stevenson Center Two",
+            "date":"December 4, 2019",
+            "publication":"The Vanderbilt Hustler",
+            "link":"https://vanderbilthustler.com/2019/12/04/greenhouse-manager-eliminated-possibility-of-greenhouse-permanently-closing-as-part-of-decision-to-decant-stevenson-center-two/#",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://vanderbilthustler.com/wp-content/uploads/2020/01/Greenhouse20191122JB-9-e1578866178131.jpg",
+            "title":"Almost all greenhouse plants gone, but Vanderbilt yet to make decision on Stevenson Center 2 architect or construction company",
+            "date":"January 12, 2020",
+            "publication":"The Vanderbilt Hustler",
+            "link":"https://vanderbilthustler.com/2020/01/12/almost-all-greenhouse-plants-gone-but-vanderbilt-yet-to-make-decision-on-stevenson-center-2-architect-or-construction-company/#",
+            "type":"Featured Projects"
+        }
     ]
 }
