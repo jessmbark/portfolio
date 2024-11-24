@@ -8,6 +8,10 @@
                 {
                     "icon":"fa-brands fa-linkedin",
                     "link":"https://www.linkedin.com/in/jessmbark/"
+                },
+                {
+                    "icon":"fa-solid fa-envelope",
+                    "link":"mailto:jessmbark@gmail.com"
                 }
             ]
         },
