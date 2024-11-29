@@ -63,12 +63,28 @@
             "type":"Featured Projects"
         },
         {
+            "image":"https://www.tnvacation.com/sites/default/files/styles/article_embedded_image/public/embedded-image/Sequatchie%20Valley%20route%20photo_CREDIT%20Shannon%20Burke.jpg",
+            "title":"A Rocky Road: An analysis of Tennessee's bicycle crash data since 2010",
+            "date":"July 20, 2024",
+            "publication":"Lede Program 2024",
+            "link":"https://jessmbark.github.io/TN-Bikecrash-Project/",
+            "type":"Featured Projects"
+        },
+        {
             "image":"https://people.com/thmb/BVnBNb8zYYjS5sC6CyJrr_z6dEg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(731x137:733x139)/newborn-baby-hopsital-nametag-generic-022024-5f8c225b97fd401993768151eacd7a7f.jpg",
             "title":"How many of me are there? An exploration of my first name and its popularity in my home state of Tennessee",
             "date":"July 9, 2024",
             "publication":"Lede Program 2024",
             "award":"Built using scrollama and ai2html",
             "link":"https://jessmbark.github.io/Jessicas-in-TN/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://livability.com/wp-content/uploads/2021/07/3051009jkk6668_0.jpg",
+            "title":"Reading Between the Lines: How are kids interacting with Tennessee public libraries?",
+            "date":"July 17, 2024",
+            "publication":"Lede Program 2024",
+            "link":"https://jessmbark.github.io/TN-Library-Project/",
             "type":"Featured Projects"
         },
          {
