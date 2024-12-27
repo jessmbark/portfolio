@@ -63,7 +63,16 @@
             "type":"Featured Projects"
         },
         {
-            "image":"https://www.tnvacation.com/sites/default/files/styles/article_embedded_image/public/embedded-image/Sequatchie%20Valley%20route%20photo_CREDIT%20Shannon%20Burke.jpg",
+            "image":"https://coschedule2.s3.amazonaws.com/58702/e5fd6506-fdc8-4523-a39f-ffa3430dfa3f/Brentwood_Trail_System_2_jpg_Aiir4nEK.jpg",
+            "title":"Tennessee's bike routes, graded A-F",
+            "date":"July 20, 2024",
+            "publication":"Lede Program 2024",
+            "award":"Built using QGIS and Mapbox",
+            "link":"https://api.mapbox.com/styles/v1/jessmbark/clzegdw5o007n01p65z2fesku.html?title=view&access_token=pk.eyJ1IjoiamVzc21iYXJrIiwiYSI6ImNseGRpNHRleDA2aDQya3BvM2JkcTQ4aWwifQ.Ots9CM5oT7Yn1YMSqQ-pew&zoomwheel=true&fresh=true#5.83/35.821/-85.912",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://www.springhilltn.org/ImageRepository/Path?filePath=%2fdocuments%5c00000000-0000-0000-0000-000000000000%5c86%2fLibrary-2+toned_201411211037049974.jpg",
             "title":"A Rocky Road: An analysis of Tennessee's bicycle crash data since 2010",
             "date":"July 20, 2024",
             "publication":"Lede Program 2024",
