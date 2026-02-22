@@ -31,6 +31,70 @@
     },
     "clips":[
         {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2026/02/NES-Downtown-Nashville-tunnel-2.png",
+            "title":"Utility tunnels hidden just below Nashville’s surface",
+            "date":"February 20, 2026",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/special-reports/hidden-tn/nashville-underground-tunnels/utility-tunnels-hidden-under-nashville-tn-2/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2026/02/MDES-2.png",
+            "title":"A look behind the scenes at Metro District Energy System",
+            "date":"February 19, 2026",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/special-reports/hidden-tn/nashville-underground-tunnels/what-keeps-nashville-running/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2026/02/Murfreesboro-N2OT-Uncle-Dave-Macon.jpg",
+            "title":"Uncle Dave Macon Days: Keeping beloved music traditions alive",
+            "date":"February 11, 2026",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/news/local-news/on-tour-middle-tn/uncle-dave-macon-days-tn-music/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2026/01/p15138coll51_86_full_3b4d0b.jpg",
+            "title":"PHOTOS: A busy day for President LBJ in Middle Tennessee",
+            "date":"January 13, 2026",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/news/local-news/on-tour-middle-tn/columbia-state-community-college/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2…al-Commission-of-Nashville-Davidson-County-4.jpeg",
+            "title":"Hidden in plain sight: Nashville’s historical cemeteries and the people trying to document them",
+            "date":"October 31, 2025",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/news/local-news/nashville/davidson-co-cemetery-survey-oct-2025/",
+            "type":"Featured Projects"
+        },
+         {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2026/01/Courtesy-Metro-Nashville-Archives-12.jpg",
+            "title":"PHOTOS | Antioch has always been a hotbed for development",
+            "date":"January 6, 2026",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/news/local-news/on-tour-middle-tn/antioch-development-history/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2025/10/Courtesy-Diane-Holley-1.jpg",
+            "title":"PHOTOS: Who was Robert Spicer?",
+            "date":"October 16, 2025",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/news/local-news/on-tour-middle-tn/robert-spicer/",
+            "type":"Featured Projects"
+        },
+        {
+            "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2025/08/p15138coll28_11244_full.jpg",
+            "title":"PHOTOS: A look back at Wilson County’s inaugural Lamb Festival Parade in 1941",
+            "date":"August 17, 2025",
+            "publication":"WKRN",
+            "link":"https://www.wkrn.com/news/local-news/on-tour-middle-tn/1941-lamb-festival-parade/",
+            "type":"Featured Projects"
+        },
+        {
             "image":"https://www.wkrn.com/wp-content/uploads/sites/73/2024/09/TN-Pedestrian-Crash-Data.png",
             "title":"Pedestrian Crashes in Tennessee",
             "date":"October 1, 2024",
